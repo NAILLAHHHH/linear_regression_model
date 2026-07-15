@@ -1,0 +1,12 @@
+.DS_Store
+.venv/
+.pytest_cache/
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.env
+.idea/
+.vscode/
+summative/FlutterApp/build/
+summative/FlutterApp/.dart_tool/
+summative/linear_regression/artifacts/tmp*
