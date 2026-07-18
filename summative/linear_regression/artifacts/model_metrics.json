@@ -1,0 +1,29 @@
+{
+  "best_model": "Random Forest",
+  "models": {
+    "SGD Linear Regression": {
+      "train_rmse": 4.294098135916152,
+      "test_rmse": 4.133171939291624,
+      "test_mae": 3.064325525834918,
+      "test_r2": 0.8025060310125639
+    },
+    "Ordinary Linear Regression": {
+      "train_rmse": 4.284863566576994,
+      "test_rmse": 4.117480290201315,
+      "test_mae": 3.041132583295288,
+      "test_r2": 0.8040027620427785
+    },
+    "Decision Tree": {
+      "train_rmse": 1.469610870296762,
+      "test_rmse": 2.4781107980902037,
+      "test_mae": 1.634383667386049,
+      "test_r2": 0.9290049068234904
+    },
+    "Random Forest": {
+      "train_rmse": 0.937676332306947,
+      "test_rmse": 1.7930008396694563,
+      "test_mae": 1.1247218463606141,
+      "test_r2": 0.9628338239949625
+    }
+  }
+}
