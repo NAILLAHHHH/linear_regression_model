@@ -10,3 +10,8 @@ __pycache__/
 summative/FlutterApp/build/
 summative/FlutterApp/.dart_tool/
 summative/linear_regression/artifacts/tmp*
+
+# Flutter generated / local
+summative/FlutterApp/ios/Flutter/ephemeral/
+summative/FlutterApp/.flutter-plugins-dependencies
+*.iml
