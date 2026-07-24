@@ -16,6 +16,7 @@ uv run jupyter notebook summative/linear_regression/multivariate.ipynb
 uv run uvicorn summative.API.prediction:app --reload --app-dir .
 ```
 API docs: http://127.0.0.1:8000/docs
+Health check: http://127.0.0.1:8000/health
 
 Public API (Render): https://linear-regression-model-api.onrender.com/docs
 
