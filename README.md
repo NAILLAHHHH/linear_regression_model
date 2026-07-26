@@ -2,6 +2,7 @@
 
 ## Mission
 I want to predict life expectancy for a country using health and economic data (not house prices).
+This matters because it's a key indicator of a country's health and development, knowing which factors drive it can help public health planners prioritize limited resources.
 This can help see which factors like schooling, GDP and immunization matter most.
 Dataset: WHO Life Expectancy from Kaggle (https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who). About 2938 rows from 2000-2015.
 
