@@ -29,4 +29,4 @@ flutter run --dart-define=API_BASE_URL=https://linear-regression-model-api-0zt6.
 For android emulator + local api use `http://10.0.2.2:8000`.
 
 ## Video
-YouTube: (add link)
+YouTube: https://youtu.be/5esSUCxF6qU
