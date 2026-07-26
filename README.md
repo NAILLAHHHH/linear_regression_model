@@ -18,13 +18,13 @@ uv run uvicorn summative.API.prediction:app --reload --app-dir .
 API docs: http://127.0.0.1:8000/docs
 Health check: http://127.0.0.1:8000/health
 
-Public API (Render): https://linear-regression-model-api.onrender.com/docs
+Public API (Render): [https://linear-regression-model-api.onrender.com](https://linear-regression-model-api-0zt6.onrender.com)/docs
 
 ## Flutter
 ```bash
 cd summative/FlutterApp
 flutter pub get
-flutter run --dart-define=API_BASE_URL=https://linear-regression-model-api.onrender.com
+flutter run --dart-define=API_BASE_URL=[https://linear-regression-model-api.onrender.com](https://linear-regression-model-api-0zt6.onrender.com)
 ```
 For android emulator + local api use `http://10.0.2.2:8000`.
 
